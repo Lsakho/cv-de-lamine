@@ -1,0 +1,30 @@
+
+header{
+    font-size: 30px;
+
+    text-align: center;
+    border:  black;
+    background-color: beige;
+    margin: auto;
+}
+h1{
+    color: rgb(34, 34, 73);
+}
+
+
+ footer{
+    position: relative;
+    bottom: 1100px;
+    background-color: rgba(154, 188, 219, 0.534);
+    float: left;
+    font-size: 30px; 
+    margin: auto;
+ }
+
+body{
+    height: 942px;
+    width: 695px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+}
